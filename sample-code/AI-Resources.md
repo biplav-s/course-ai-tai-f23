@@ -1,5 +1,6 @@
-## Data Cleaning
-* Data clearning and preparation [code - notebook](https://github.com/biplav-s/course-d2d-ai/blob/main/sample-code/l5-dataprep/)
+## From Book: AI - A Modern Approach
+* Python [code](https://github.com/aimacode/aima-python/blob/master/intro.ipynb)
+* Java [code](https://github.com/aimacode/aima-java)
 
-## Using Ontologies
-* Programmatic manipulation [code - notebook](https://github.com/biplav-s/course-nl/blob/master/l11-ontology/Exploring%20ontologies.ipynb)
+## About Large Language Models and ChatGPT
+* [Information collated](https://github.com/biplav-s/course-nl-f22/tree/main/reading-list) by Instructor as part of NLP course

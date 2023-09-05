@@ -1,8 +1,9 @@
 ## Creating a virtual environment
 1. Create virtual environment with conda
+   
 conda create --name aima     # if python is lower than 3.7 on machine, specify " python=3.7" at the end
 
-2. Activate it
+3. Activate it
    
 source activate aima
 

@@ -18,7 +18,9 @@ git clone https://github.com/aimacode/aima-python.git
 
 2. Install dependencies
 
-cd aima-pythonpip install -r requirements.txt
+cd aima-python
+
+pip install -r requirements.txt
 
 3. Fetch the datasets 
 

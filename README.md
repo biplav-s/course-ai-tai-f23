@@ -11,4 +11,7 @@ Fall 2023
 2. CSCE 590, Spring 2021, [Data to Decisions - Intro to AI](https://github.com/biplav-s/course-d2d-ai)
 
 
+## Resources for further reading 
+1. Readings in [Foundation / large language models (LLMs)](https://github.com/biplav-s/course-nl-f22/blob/main/reading-list/Readme.md), from Biplav Srivastava's NLP (CSE 771) courses.  
+
 *Note*: This material is available under [MIT license](https://opensource.org/licenses/MIT).

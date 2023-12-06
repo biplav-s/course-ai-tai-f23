@@ -6,6 +6,9 @@ Prof. Biplav Srivastava, AI Institute, University of South Carolina
 
 Fall 2023
 
+## A few notable student projects that students agreed to make public
+1. [Braille Optical Character Recognition](https://github.com/MatthewADH/BrailleOpticalCharacterRecognition), by Matthew Duffell-Hoffman
+
 ## Github of related courses
 1. CSCE 590, Fall 2021, [Trusted AI](https://github.com/biplav-s/course-tai)
 2. CSCE 590, Spring 2021, [Data to Decisions - Intro to AI](https://github.com/biplav-s/course-d2d-ai)

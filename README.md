@@ -8,6 +8,7 @@ Fall 2023
 
 ## A few notable student projects that students agreed to make public
 1. [Braille Optical Character Recognition](https://github.com/MatthewADH/BrailleOpticalCharacterRecognition), by Matthew Duffell-Hoffman
+2. [Video Game Recommendation](https://github.com/mh1300/Game-Recommendation-Automation-Machine), by Matthew Hughes
 
 ## Github of related courses
 1. CSCE 590, Fall 2021, [Trusted AI](https://github.com/biplav-s/course-tai)

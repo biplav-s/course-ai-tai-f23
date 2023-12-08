@@ -7,8 +7,9 @@ Prof. Biplav Srivastava, AI Institute, University of South Carolina
 Fall 2023
 
 ## A few notable student projects that students agreed to make public
-1. [Braille Optical Character Recognition](https://github.com/MatthewADH/BrailleOpticalCharacterRecognition), by Matthew Duffell-Hoffman
-2. [Video Game Recommendation](https://github.com/mh1300/Game-Recommendation-Automation-Machine), by Matthew Hughes
+1. [Braille Optical Character Recognition, Within a Chatbot](https://github.com/MatthewADH/BrailleOpticalCharacterRecognition), by Matthew Duffell-Hoffman
+2. [Video Game Recommendation, Within a Chatbot](https://github.com/mh1300/Game-Recommendation-Automation-Machine), by Matthew Hughes
+3. [Water Quality Decision, Within a Chatbot](https://github.com/vnagpal25/Water-Quality-Chatbot), by Vansh Nagpal
 
 ## Github of related courses
 1. CSCE 590, Fall 2021, [Trusted AI](https://github.com/biplav-s/course-tai)

@@ -2,9 +2,7 @@
 1. CSCE 580 course - Introduction to Artificial Intelligence [Course Website](https://sites.google.com/site/biplavsrivastava/teaching/ai-csce-580-fall-2023-intro-to-ai)
 2. Material for CSCE 581 course: Trusted Artificial Intelligence [Course Website](https://sites.google.com/site/biplavsrivastava/teaching/ai-csce-581-fall-2023-trusted-ai)
 
-Prof. Biplav Srivastava, AI Institute, University of South Carolina
-
-Fall 2023
+**Prof. Biplav Srivastava, AI Institute, University of South Carolina, Fall 2023**
 
 ## A few notable student projects that students agreed to make public
 1. [Braille Optical Character Recognition, Within a Chatbot](https://github.com/MatthewADH/BrailleOpticalCharacterRecognition), by Matthew Duffell-Hoffman
